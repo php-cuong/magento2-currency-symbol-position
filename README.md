@@ -19,3 +19,11 @@ On the Magento Admin Panel, you navigate to the Stores → Currency → Currency
 2. Go to the storefront
 
 Check the product price.
+
+# See the video How to create this extension
+1. Youtube: https://www.youtube.com/watch?v=_fRcfc_RzhI&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ
+2. Facebook: https://www.facebook.com/giaphugroupcom/videos/318705518783577/
+
+# See the video How to package and publish this extension
+1. Youtube: https://www.youtube.com/watch?v=4K19g6Nxnn4&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ
+2. Facebook: https://www.facebook.com/giaphugroupcom/videos/253431868880731/
